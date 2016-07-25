@@ -1,5 +1,6 @@
 package com.example.newsget.Fragment;
 
+
 import com.example.newsget.R;
 
 import android.os.Bundle;

@@ -21,7 +21,7 @@ public class MainFragment3 extends Fragment {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
-		View view = inflater.inflate(R.layout.main_fragment3, container, false);
+		View view = inflater.inflate(0x7f030004, container, false);
 
 		return view;
 	}

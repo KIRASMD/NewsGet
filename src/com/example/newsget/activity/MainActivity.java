@@ -5,10 +5,8 @@ import com.example.newsget.Fragment.MainFragment1;
 import com.example.newsget.Fragment.MainFragment2;
 import com.example.newsget.Fragment.MainFragment3;
 
-import android.app.Fragment;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
-import android.support.v4.app.FragmentManager;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -82,5 +80,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener {
 			break;
 		}
 	}
+
+	
 
 }
